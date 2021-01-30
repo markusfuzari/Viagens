@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Viagens</string>
+    <string name="activity_lista_pacotes_titulo">Pacotes</string>
     <string name="activity_lista_pacotes_titulo_especiais">Especiais</string>
     <string name="activity_lista_pacotes_subtitulo_brasil">Brasil</string>
 </resources>

@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Viagens"
         android:fullBackupContent="false">
-        <activity android:name=".ListaPacotesActivity">
+        <activity android:name=".ui.activity.ListaPacotesActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
